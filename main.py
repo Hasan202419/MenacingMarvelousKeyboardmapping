@@ -2,7 +2,6 @@ import requests
 import pandas as pd
 import yfinance as yf
 import datetime
-
 # AlgoTelegramBot klassi
 class AlgoTelegramBot:
     def __init__(self, bot_token, chat_id):
